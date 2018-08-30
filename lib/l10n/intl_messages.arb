@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2018-08-30T13:25:40.061739",
+  "applicationTitle": "HashTrack",
+  "@applicationTitle": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  }
+}
