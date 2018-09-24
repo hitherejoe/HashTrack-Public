@@ -25,4 +25,12 @@ class AppLocalizations {
       Intl.message('HashTrack',
           name: 'applicationTitle', desc: 'The application title');
 
+  String get connectWithGoogle =>
+      Intl.message('Connect with Google',
+          name: 'connectWithGoogle', desc: 'Connect with Google button text');
+
+  String get welcomeMessage =>
+      Intl.message('Connect with your Google account to keep track of your favorite hashtags for Twitter & Instagram',
+          name: 'welcomeMessage', desc: 'Welcome text displayed on authentication screen');
+
 }
